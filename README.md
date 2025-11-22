@@ -1,15 +1,20 @@
 <div align="center">
+<p>
+<a href="https://noteapp-adamikoo.web.app/">
+<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="App Link" />
+</a>
+<a href="buymeacoffee.com/adamikoo">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
+</a>
+</p>
 
-<!-- Replace with your actual logo URL or local path like ./public/favicon.png -->
-
-<img width="500" height="500" alt="favicon" src="https://github.com/user-attachments/assets/91dd580c-1ab7-4c6a-ad5e-f8d883d02f49" />
-
+<img width="150" height="150" alt="favicon" src="https://github.com/user-attachments/assets/63a8a291-68ae-4a0c-9a59-3fb927b4af71" />
 
 ☁️ Lumina Notes
 
 The intelligent, cloud-synced note-taking application built for the modern web.
 
-<!-- Badges -->
+<!-- Tech Stack Badges -->
 
 <p>
 <a href="https://reactjs.org/">
@@ -29,16 +34,9 @@ The intelligent, cloud-synced note-taking application built for the modern web.
 </a>
 </p>
 
-<!-- Quick Links -->
+<!-- Quick Link Badges -->
 
-<p>
-<a href="https://noteapp-adamikoo.web.app/">
-<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="App Link" />
-</a>
-<a href="buymeacoffee.com/adamikoo">
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
-</a>
-</p>
+
 </div>
 
 <br />
@@ -46,7 +44,7 @@ The intelligent, cloud-synced note-taking application built for the modern web.
 <!-- Table of Contents -->
 
 <details>
-<summary>Table of Contents</summary>
+<summary><b>Table of Contents</b></summary>
 <ol>
 <li><a href="#-features">Features</a></li>
 <li><a href="#-repository-structure">Repository Structure</a></li>
@@ -91,23 +89,23 @@ Import from Google Keep (.zip), export to .txt/Email, and full JSON backups.
 
 📂 Repository Structure
 
-└── Lumina/
-    ├── public/
-    │   ├── favicon.png
-    │   └── manifest.json
-    ├── src/
-    │   ├── utils/
-    │   │   └── keepImport.js
-    │   ├── App.jsx
-    │   ├── firebase.js
-    │   ├── index.css
-    │   └── main.jsx
-    ├── .env
-    ├── index.html
-    ├── package.json
-    ├── postcss.config.js
-    ├── tailwind.config.js
-    └── vite.config.js
+    └── Lumina/
+        ├── public/
+        │   ├── favicon.png
+        │   └── manifest.json
+        ├── src/
+        │   ├── utils/
+        │   │   └── keepImport.js
+        │   ├── App.jsx
+        │   ├── firebase.js
+        │   ├── index.css
+        │   └── main.jsx
+        ├── .env
+        ├── index.html
+        ├── package.json
+        ├── postcss.config.js
+        ├── tailwind.config.js
+        └── vite.config.js
 
 
 🚀 Getting Started
@@ -161,7 +159,8 @@ npm run dev
 📸 Screenshots
 
 <div align="center">
-<img width="800"  alt="Dashboard" src="https://github.com/user-attachments/assets/a4c0818b-671e-43b8-920b-0310d75e5252" />
+<img width="800" alt="Dashboard" src="https://github.com/user-attachments/assets/a4c0818b-671e-43b8-920b-0310d75e5252" />
+
 
 
 
