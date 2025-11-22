@@ -3,7 +3,7 @@
 <a href="https://noteapp-adamikoo.web.app/">
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="App Link" />
 </a>
-<a href="buymeacoffee.com/adamikoo">
+<a href="https://buymeacoffee.com/adamikoo">
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
 </a>
 </p>
